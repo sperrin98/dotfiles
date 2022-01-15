@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = stanperrin98@gmail.com
+	name = stanleyperrin
